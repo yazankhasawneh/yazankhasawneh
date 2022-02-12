@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @yazankhasawneh
+- 👀 I’m currently interested in coding, video games, and soccer.
+- 🌱 I’m currently studying at the University of British Columbia, hopefully majoring in Computer Science.
+- 📫 You can reach me through my website, https://yazanalkhasawneh.com
