@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @yazankhasawneh
-- 👀 I’m currently interested in coding, video games, and soccer.
-- 🌱 I’m currently studying at the University of Ottawa, majoring in Business Technology Management
-- 📫 You can reach me through my LinkedIn, https://www.linkedin.com/in/yazankhasawneh/
+https://www.linkedin.com/in/yazankhasawneh/
